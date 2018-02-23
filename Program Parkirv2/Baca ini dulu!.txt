@@ -1,0 +1,6 @@
+Note:
+1. Program belum bisa save & read file
+2. Bug di function cari_plat()
+	harus keluar masuk menu dulu 1 kali baru bisa ketemu data yang dicari
+3. Bug di function hapus_plat()
+	pas masuk langsung keluar
